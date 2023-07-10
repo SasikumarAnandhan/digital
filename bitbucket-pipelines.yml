@@ -6,6 +6,6 @@ pipelines:
         clone:
           enabled: false
         script:
-          - git clone --bare git@bitbucket.org:SasikumarAnandhan/digital.git
+          - git clone --bare https://SasikumarAnandhan@bitbucket.org/sasi-kumar/digital.git
           - cd RepoName.git
-          - git push --mirror git@github.com:SasikumarAnandhan/digital.git
+          - git push --mirror https://github.com/SasikumarAnandhan/digital.git
