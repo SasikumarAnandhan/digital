@@ -8,4 +8,4 @@ pipelines:
         script:
           - git clone --bare https://SasikumarAnandhan@bitbucket.org/sasi-kumar/digital.git
           - cd digital.git
-          - git push --mirror https://SasikumarAnandhan:Sasikumar*04@github.com/SasikumarAnandhan/digital.git
+          - git push --mirror https://Sasikumar*04:SasikumarAnandhan@github.com/SasikumarAnandhan/digital.git
